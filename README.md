@@ -6,7 +6,7 @@ code snippet: age = int(input("What is your age?")
 The next line tells the program to print an output based on the user input. If the user tells us they are 18 years or older, then the program tells us that we are "meerderjarig" 
 If not, the program tells us we are "minderjarig"
 code snippet:    if age >= 18:
-                 print("Meerderjarig")
+                 print("Volwassen")
                  else:
                  print("Minderjarig"
 
