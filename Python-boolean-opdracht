@@ -6,7 +6,7 @@ age = int(input("What is your age?"))
 # Kijk of deze gebruiker volwassen is
 if age >= 18:
   print("Meerderjaarig")
-
+  
 
 else:
   print("Minderjarig") 
